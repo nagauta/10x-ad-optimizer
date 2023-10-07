@@ -1,2 +1,2 @@
-# 10x-ad-optimizer
+# optimizer-x
 this is experimental investigation for ad optimizations
